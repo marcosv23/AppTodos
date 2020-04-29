@@ -7,5 +7,5 @@ in virtue of deleting, the application won't throw an error, but just cast a
 empty <ul>;
 
 This app has a function what add all changes, deleting and rendering all items,
-it's Render Todos
+it's RenderTodos()
 
